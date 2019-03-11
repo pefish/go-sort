@@ -1,1 +1,1 @@
-module gitee.com/pefish/p-go-sort
+module github.com/pefish/go-sort
